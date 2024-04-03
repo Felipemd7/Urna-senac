@@ -28,9 +28,6 @@ export const Content = styled.div`
 `;
 
 export const Border = styled.div`
-    width: 13.5%;
-    height: 100%;
-    border-right: 5px solid ${({ theme }: ThemeProvider) => `${theme.colors.black81}`};
 `;
 
 export const InnerBorder = styled.div`
