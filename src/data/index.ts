@@ -9,7 +9,7 @@ const candidates: ICandidate[] = [
         number: '12345',
     },
     {
-        name: 'Ton de bola',''
+        name: 'Ton de bola',
         group: 'Partido dos Jogadores',
         position: 'DEPUTADO_FEDERAL',
         image: 'image-1.jpeg',
