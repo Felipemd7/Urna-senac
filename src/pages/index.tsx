@@ -6,7 +6,7 @@ export default function Home(): ReactElement {
     return (
         <Container>
             <Wrapper>
-                <BallotBox/>             
+                <BallotBox />             
             </Wrapper>
         </Container>
     );
