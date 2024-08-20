@@ -2,10 +2,10 @@ import { ICandidate } from '@model/ballot-box.interface';
 
 const candidates: ICandidate[] = [
     {
-        name: 'João',
-        group: 'Partido dos Jogadores',
-        position: 'DEPUTADO_ESTADUAL',
-        image: 'image-0.jpeg',
+        name: 'CARMO ALBERTO',
+        group: 'Partido dos trabalhadores',
+        position: 'vereador',
+        image: 'carmo.jpeg',
         number: '12345',
     },
     {
